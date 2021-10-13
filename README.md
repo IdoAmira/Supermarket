@@ -4,6 +4,7 @@ Employee management system and organization of supplying products in the superma
 
 The main purpose of this system is to help supermarket employees be in control of the store's product inventory as well as management of store employees.
 The system will save time and reduce resources by storing the information in a convenient way that will allow easy identification. In addition, the system will reduce human errors by providing accurate service with minimal possibility of errors.
+
 The system is written according to the MVC model, in addition there are uses in additional design patterns such as Observer, Singleton and Factory.
 ____________________________________________________________________________________________________________________________________________________________
 ## Class Diagram
