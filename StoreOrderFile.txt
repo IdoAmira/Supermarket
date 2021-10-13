@@ -1,0 +1,2 @@
+Barcode	Name	Store Order	
+100003	apple	13	

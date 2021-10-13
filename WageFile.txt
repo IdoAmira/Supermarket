@@ -1,0 +1,6 @@
+Name	ID	Wage	
+Ofir	123	2400.0	
+Saar	1234	2000.0	
+Ido	100	75000.0	
+admin	admin	0.0	
+Avi	9876	300.0	
