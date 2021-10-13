@@ -6,6 +6,8 @@ The main purpose of this system is to help supermarket employees be in control o
 The system will save time and reduce resources by storing the information in a convenient way that will allow easy identification. In addition, the system will reduce human errors by providing accurate service with minimal possibility of errors.
 
 The system is written according to the MVC model, in addition there are uses in additional design patterns such as Observer, Singleton and Factory.
+
+This program uses SQLite database with queries. In addition there are reading and writing files.
 ____________________________________________________________________________________________________________________________________________________________
 ## Class Diagram
 
